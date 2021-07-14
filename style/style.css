@@ -1,0 +1,67 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    padding: 0;
+    margin: 0;
+
+}
+
+/* Copa America start */
+h1{
+    font-size: 50px;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 64px;
+}
+.banner{
+    padding: 30px 30px 30px 30px ;
+    display: flex;
+    width: 1285px;
+    height: 600px;
+    background-color: #2D25A0 ;
+   
+}
+
+.half_wide{
+   
+    width: 50%;
+   
+}
+
+#half_wide_id{
+    line-height:20px;
+    margin: 120px 0px 100px 100px;
+ }
+
+.half_wide img{
+    /* width: 80%; */
+    margin-right: 90px;
+    margin-top: 70px;
+    width: 556.01px;
+    height: 438px;
+}
+.half_wide img:hover{
+   
+    transform: scale(1.2)rotate(10deg) ;
+    transition: transform 2s ease-in-out;
+}
+
+.button{
+    background-color: #E02C6D;
+    text-decoration: none;
+    padding: 10px 24px;
+    color: white;
+    font-size: 16px;
+    Width :68px;
+    Height :44px;
+
+}
+.half_wide i{
+
+    margin-left: 10px;
+}
+
+
+
+
+
+/* Copa America End */
